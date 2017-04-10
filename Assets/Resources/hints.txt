@@ -1,0 +1,40 @@
+Level 1
+Are you lined up with the goal
+Make sure to stay away from the walls!
+Try going up 4 times from the start
+Level 2
+Plan out what you will do after the turn
+Count how many tiles are after the turn
+Make sure you only turn right once
+Level 4
+Only commands are needed
+Make sure you count the number of tiles to the goal
+Loop-Up-Break now how many times do you loop?
+Level 5
+Make sure to use a loop
+Count how many tiles you have to travel
+Loop, Up, Break now how many times do you loop?
+Level 6
+Make sure to point the spaceship towards the goal
+Make sure to use a loop
+You only have to turn at the start
+Level 7
+You will need to use two loops to solve this puzzle
+You only need to turn right once
+Count the tiles per loop and update the entry box per loop
+Level 8
+What commands do you need to move diagonally?
+How many times do you need to move diagonally?
+Up, Left, Up, Right will move the ship diagonally once. Now loop it so you reach the straight away
+Level 9
+You will need 3 loops to reach the goal
+Make sure to turn after you finish each loop
+Each loop will be the same length 
+Level 10
+Each loop is a different length
+You only need to turn three times
+Turn after each loop has finished
+Level 11
+Break the puzzle into 3 pieces and plan out each piece individually, then put the three pieces together
+Each loop will be a different length and you will need to mix non loop and loop commands to finish this puzzle
+Use a loop for the first part, enter the turn command by command, use a loop to line the spaceship up with the goal, and then use a loop to get the spaceship to the goal

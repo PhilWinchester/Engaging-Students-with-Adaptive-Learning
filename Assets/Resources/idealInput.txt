@@ -1,0 +1,40 @@
+Level 1
+Perfect: Up, Up, Up, Up
+Average: Left, Up, Right, Up, Up, Up, Right, Up, Left, Up
+Bad: Up, Right, Up, Up, Left, Up, Up, Up, Left, Up, Up
+Level 2
+Perfect: Up, Right, Up, Up, Up
+Average: Up, Right, Right, Right, Right, Right, Up, Up, Up
+Bad: Up, Right, Left, Left, Right, Right, Right, Right, Right, Right, Up, Up, Up
+Level 4
+Perfect: Loop, Up, Break
+Average: Left, Loop, Up, Break, Right, Up, Left, Up
+Bad: Up, Up, Up, Up, Up
+Level 5
+Perfect: Loop, Up, Break
+Average: Up, Up, Up, Right, Right, Right, Right, Up
+Bad: Up, Up, Up, Up
+Level 6
+Perfect: Right, Right, Loop, Up, Break
+Average: Left, Left, Loop, Up, Break, Right, Right, Left, Left, Up
+Bad: Right, Right, Up, Up, Up, Up, Up
+Level 7
+Perfect: Loop, Up, Break, Right, Loop, Up, Break
+Average: Loop, Up, Break, Right, Up, Up, Up
+Bad: Up, Up, Up, Up, Up, Right, Up, Up, Up
+Level 8
+Perfect: Loop, Up, Left, Up, Right, Break, Up, Left, Up, Up, Up
+Average: Up, Left, Up, Right, Up, Left, Up, Right, Up, Left, Loop, Up, Break
+Bad: Up, Left, Up, Right, Up, Left, Up, Right, Up, Left, Up, Up, Up
+Level 9
+Perfect: Loop, Up, Break, Right, Loop, Up, Break, Right, Loop, Up, Break
+Average: Loop, Up, Break, Right, Up, Up, Up, Right, Loop, Up, Break
+Bad: Up, Up, Up, Right, Up, Up, Up, Right, Up, Up, Up
+Level 10
+Perfect: Loop, Up, Break, Right, Loop, Up, Break, Right, Loop, Up, Break, Right, Up
+Average: Loop, Up, Break, Right, Up, Up, Up, Right, Loop, Up, Break, Right, Up
+Bad: Loop, Up, Break, Right, Up, Up, Up, Right, Up, Up, Up, Up, Right, Up
+Level 11
+Perfect: Loop, Up, Break, Right, Up, Up, Right, Loop, Up, Break, Left, Loop, Up, Break, Left, Loop, Up, Break
+Average: Loop, Up, Break, Right, Up, Up, Right, Up, Up, Left, Loop, Up, Break, Left, Loop, Up, Break
+Bad: Loop, Up, Break, Right, Up, Up, Right, Up, Up, Left, Up, Up, Up, Left, Loop, Up, Break

@@ -1,0 +1,6 @@
+Click: 0.75
+Attempts: 0
+Hints: 0
+Time: 318
+Button Time: 92.08334
+Level Attempts: 0

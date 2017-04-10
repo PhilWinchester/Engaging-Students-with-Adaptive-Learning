@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4186C77A-D686-28B9-3FE1-ABA89223BB96}") = "Engaging Students with Adaptive Learning", "Assembly-CSharp-firstpass.csproj", "{BED0C970-5E01-608E-927C-63D4EB90B62C}"
+EndProject
+Project("{4186C77A-D686-28B9-3FE1-ABA89223BB96}") = "Engaging Students with Adaptive Learning", "Assembly-CSharp.csproj", "{2A59015F-D314-20DA-F459-CBF91984CF10}"
+EndProject
+Project("{4186C77A-D686-28B9-3FE1-ABA89223BB96}") = "Engaging Students with Adaptive Learning", "Assembly-CSharp-Editor.csproj", "{AE659AD5-3D51-E248-AA7B-EDEEA512C6D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BED0C970-5E01-608E-927C-63D4EB90B62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED0C970-5E01-608E-927C-63D4EB90B62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED0C970-5E01-608E-927C-63D4EB90B62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED0C970-5E01-608E-927C-63D4EB90B62C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A59015F-D314-20DA-F459-CBF91984CF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A59015F-D314-20DA-F459-CBF91984CF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A59015F-D314-20DA-F459-CBF91984CF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A59015F-D314-20DA-F459-CBF91984CF10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE659AD5-3D51-E248-AA7B-EDEEA512C6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE659AD5-3D51-E248-AA7B-EDEEA512C6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE659AD5-3D51-E248-AA7B-EDEEA512C6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE659AD5-3D51-E248-AA7B-EDEEA512C6D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+							GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
